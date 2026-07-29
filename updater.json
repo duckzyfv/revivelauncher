@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "installer_url": "https://github.com/duckzyfv/revivelauncher/releases/download/v1.0.0/Revive_1.0.0_x64-setup.exe",
+  "installer_name": "Revive_1.0.0_x64-setup.exe",
+  "sha256": "REPLACE_WITH_INSTALLER_SHA256_AFTER_BUILD"
+}
