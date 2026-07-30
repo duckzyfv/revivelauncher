@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "installer_url": "https://github.com/duckzyfv/revivelauncher/releases/download/v1.0.3/Revive_1.0.3_x64-setup.exe",
-  "installer_name": "Revive_1.0.3_x64-setup.exe",
-  "sha256": "sha256:99edc3343e1b0e99a91bc2d60974fc603a4ecc9856be9fcc45fced6752ae0cfc"
+  "version": "1.0.4",
+  "installer_url": "https://github.com/duckzyfv/revivelauncher/releases/download/v1.0.4/Revive_1.0.4_x64-setup.exe",
+  "installer_name": "Revive_1.0.4_x64-setup.exe",
+  "sha256": "sha256:1271f6979ac3ceb29293f94e72a46d73252bd3a3e575226c875c172e72eec021"
 }
