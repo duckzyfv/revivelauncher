@@ -1,6 +1,6 @@
 {
-  "version": "1.0.5",
-  "installer_url": "https://github.com/duckzyfv/revivelauncher/releases/download/v1.0.5/Revive_1.0.5_x64-setup.exe",
-  "installer_name": "Revive_1.0.5_x64-setup.exe",
-  "sha256": "sha256:88994f6eb0412dad7da6757870d7e0dc2e04d2e1621b1163ad6764f61c05e59a"
+  "version": "1.0.6",
+  "installer_url": "https://github.com/duckzyfv/revivelauncher/releases/download/v1.0.6/Ember_1.0.5_x64-setup.exe",
+  "installer_name": "Ember_1.0.5_x64-setup.exe",
+  "sha256": "sha256:4269a055d7553145816cdc2154fb73044285d0280a1df417e2b0ef0b4de4fd6f"
 }
